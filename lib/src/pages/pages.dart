@@ -1,0 +1,9 @@
+export 'package:proyecto_dam/src/pages/slash.dart';
+export 'package:proyecto_dam/src/pages/welcome_page.dart';
+export 'package:proyecto_dam/src/pages/login_page.dart';
+export 'package:proyecto_dam/src/pages/resume_page.dart';
+export 'package:proyecto_dam/src/pages/invoices_page.dart';
+export 'package:proyecto_dam/src/pages/offices_page.dart';
+export 'package:proyecto_dam/src/pages/consume_page.dart';
+export 'package:proyecto_dam/src/pages/settings_page.dart';
+export 'package:proyecto_dam/src/pages/help_page.dart';
